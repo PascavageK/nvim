@@ -1,3 +1,3 @@
-print("Hello World")
+print("Happy Halloween")
 
 require("config.init")
