@@ -1,3 +1,3 @@
-print("You are wonderful!")
+print("Hello World")
 
 require("config.init")
